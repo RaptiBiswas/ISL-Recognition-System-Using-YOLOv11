@@ -1,6 +1,7 @@
 # ISL-Recognition-System-Using-YOLOv11
 This project is an AI-based **image classification system** that recognizes **Indian Sign Language (ISL) gestures from images** using **YOLOv11**.  
 A live demo is available on **Hugging Face Spaces**, where users can upload an image to identify the corresponding ISL alphabet.
+🔗 **Live Demo:** [Hugging Face Space – SweetSitara/Project](https://huggingface.co/spaces/SweetSitara/Project)
 ## 📘 Overview
 
 Sign language is essential for communication for hearing and speech-impaired individuals.  
