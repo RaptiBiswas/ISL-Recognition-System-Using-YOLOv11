@@ -1,1 +1,1 @@
-# ISL-Recognition-System-Using-YOLOv11-
+# ISL-Recognition-System-Using-YOLOv11
