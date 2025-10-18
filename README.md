@@ -22,6 +22,6 @@ Workflow:
 
 - Detects ISL alphabets from uploaded images  
 - Accurate hand region detection with **YOLOv11**  
-- Simple web interface using Gradio / Streamlit  
+- Simple web interface using Gradio  
 - End-to-end image detection and classification  
 - Easy deployment on Hugging Face Spaces  
